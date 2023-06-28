@@ -1,5 +1,5 @@
 {
-    "name": "suendri/pbwl-project4",
+    "name": "agung/pbwl-project4",
     "description": "Project 4 Pemrograman Berbasis Web Lanjutan Tahun 2023",
     "type": "project",
     "autoload": {
@@ -10,7 +10,7 @@
     "authors": [
         {
             "name": "Suendri",
-            "email": "mr.suendri@gmail.com"
+            "email": "mhdaagungwidodo022@gmail.com"
         }
     ],
     "require": {}
